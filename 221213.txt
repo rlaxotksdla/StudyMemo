@@ -1,0 +1,17 @@
+princessria@naver.com
+매일 문제 2개씩 보내기
+
+.java > .class(바이트 코드)
+
+JVM: Java Virtual Machine
+
+sourcecode 작성(.java) command prompt 이용해서 sourcecode위치로 이동 (cd 위치)
+javac.exe or javac로 컴파일(파일명.java) 결과 파일명.class 파일 생성
+java.exe or java로 실행(파일명만 입력 .class입력x)
+
+eclipse는 java파일 저장하는 순간 컴파일도 같이됨
+
+JDK : Java Development Toolkit  (Java Javac)
+JRE : Java Runtime Environment (Java)
+
+//
